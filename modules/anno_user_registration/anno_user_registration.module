@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Anno User Registration feature.
+ */
+
+include_once 'anno_user_registration.features.inc';
