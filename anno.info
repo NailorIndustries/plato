@@ -53,7 +53,7 @@ dependencies[] = xmlsitemap_menu
 dependencies[] = xmlsitemap_node
 dependencies[] = xmlsitemap_engines
 dependencies[] = googleanalytics
-dependencies[] = create_zen
+;dependencies[] = create_zen
 
 ; Features
 ; ------------
