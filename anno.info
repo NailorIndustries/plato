@@ -23,7 +23,7 @@ dependencies[] = file
 
 ; Contrib
 ; ------------
-;dependencies[] = admin_menu
+dependencies[] = admin_menu
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
@@ -39,7 +39,6 @@ dependencies[] = libraries
 dependencies[] = menu_block
 dependencies[] = metatag
 dependencies[] = metatag_views
-dependencies[] = openid_selector
 dependencies[] = pathauto
 dependencies[] = robotstxt
 dependencies[] = strongarm
@@ -53,7 +52,6 @@ dependencies[] = xmlsitemap_menu
 dependencies[] = xmlsitemap_node
 dependencies[] = xmlsitemap_engines
 dependencies[] = googleanalytics
-;dependencies[] = create_zen
 
 ; Features
 ; ------------
