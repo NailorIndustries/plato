@@ -88,7 +88,6 @@ projects[parallax]																							= 2.2
 projects[pathauto]                                              = 1.2
 projects[path_breadcrumbs]                                      = 3.0
 projects[plupload]                                              = 1.6
-projects[print]                                                 = 2.0
 projects[proj4js]                                               = 1.2
 projects[qtip]																									= 2.0-rc2
 projects[redirect]																							= 1.0-rc1
@@ -137,12 +136,6 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
 
-# PDF generator
-libraries[dompdf][type] = "library"
-libraries[dompdf][directory_name] = "dompdf"
-libraries[dompdf][download][type] = "git"
-libraries[dompdf][download][url] = "https://github.com/dompdf/dompdf.git"
-
 # Flexslider
 libraries[flexslider][type] = "library"
 libraries[flexslider][directory_name] = "flexslider"
@@ -160,3 +153,9 @@ libraries[leaflet_widget][type] = "library"
 libraries[leaflet_widget][directory_name] = "modernizr"
 libraries[leaflet_widget][download][type] = "get"
 libraries[leaflet_widget][download][url] = "http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+
+# OperLayers
+libraries[openlayers][type] = "library"
+libraries[leaflet_widget][directory_name] = "openlayers"
+libraries[leaflet_widget][download][type] = "get"
+libraries[leaflet_widget][download][url] = "https://github.com/openlayers/ol3/archive/v3.1.0-pre.2.zip"
