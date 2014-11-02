@@ -13,3 +13,14 @@ function anno_form_install_configure_form_alter(&$form, $form_state) {
   // Pre-populate the site name with the server name.
   $form['site_information']['site_name']['#default_value'] = $_SERVER['SERVER_NAME'];
 }
+
+/**
+ * Implementation of hook_profile_details().
+ */
+function anno_profile_details() {
+  return array(
+    'name' => 'anno',
+    'description' => 'Base Anno profile',
+    'old_short_name' => 'plato',
+  );
+}
