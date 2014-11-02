@@ -1,4 +1,5 @@
 name = Anno
+old_short_name = plato
 description = This is a standard base site.
 core = 7.x
 
