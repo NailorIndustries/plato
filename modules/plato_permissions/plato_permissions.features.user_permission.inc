@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * anno_permissions.features.user_permission.inc
+ * plato_permissions.features.user_permission.inc
  */
 
 /**
  * Implements hook_user_default_permissions().
  */
-function anno_permissions_user_default_permissions() {
+function plato_permissions_user_default_permissions() {
   $permissions = array();
 
   // Exported permission: 'access content'.
