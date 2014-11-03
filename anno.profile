@@ -17,10 +17,9 @@ function anno_form_install_configure_form_alter(&$form, $form_state) {
 /**
  * Implementation of hook_profile_details().
  */
-function anno_profile_details() {
+function plato_profile_details() {
   return array(
-    'name' => 'anno',
-    'description' => 'Base Anno profile',
-    'old_short_name' => 'plato',
+    'name' => 'plato',
+    'description' => 'Base Plato profile',
   );
 }
