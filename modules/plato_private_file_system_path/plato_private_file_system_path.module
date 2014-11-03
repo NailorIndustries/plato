@@ -4,4 +4,4 @@
  * Code for the Plato Private File System Path feature.
  */
 
-include_once 'anno_private_file_system_path.features.inc';
+include_once 'plato_private_file_system_path.features.inc';
