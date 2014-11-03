@@ -55,9 +55,9 @@ dependencies[] = googleanalytics
 
 ; Features
 ; ------------
-dependencies[] = anno_image_jpeg_quality
-dependencies[] = anno_path_alias
-dependencies[] = anno_text_formats
-dependencies[] = anno_permissions
-dependencies[] = anno_private_file_system_path
-dependencies[] = anno_user_registration
+dependencies[] = plato_image_jpeg_quality
+dependencies[] = plato_path_alias
+dependencies[] = plato_text_formats
+dependencies[] = plato_permissions
+dependencies[] = plato_private_file_system_path
+dependencies[] = plato_user_registration
