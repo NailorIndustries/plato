@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * anno_user_registration.strongarm.inc
+ * plato_user_registration.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function anno_user_registration_strongarm() {
+function plato_user_registration_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();
