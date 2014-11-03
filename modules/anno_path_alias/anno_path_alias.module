@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Anno Path Alias feature.
- */
-
-include_once 'anno_path_alias.features.inc';
