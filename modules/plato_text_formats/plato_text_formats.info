@@ -1,9 +1,9 @@
-name = Anno Text Formats
+name = Plato Text Formats
 description = Text formats system base
 core = 7.x
-package = Anno
+package = Plato
 version = 7.x-1.0
-project = anno_text_formats
+project = plato_text_formats
 dependencies[] = features
 dependencies[] = filter
 features[features_api][] = api:2
