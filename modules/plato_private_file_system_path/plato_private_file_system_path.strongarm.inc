@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * anno_private_file_system_path.strongarm.inc
+ * plato_private_file_system_path.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function anno_private_file_system_path_strongarm() {
+function plato_private_file_system_path_strongarm() {
   $export = array();
 
   $strongarm = new stdClass();
