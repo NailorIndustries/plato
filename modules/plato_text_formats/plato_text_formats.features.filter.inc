@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * anno_text_formats.features.filter.inc
+ * plato_text_formats.features.filter.inc
  */
 
 /**
  * Implements hook_filter_default_formats().
  */
-function anno_text_formats_filter_default_formats() {
+function plato_text_formats_filter_default_formats() {
   $formats = array();
 
   // Exported format: Filtered HTML.
