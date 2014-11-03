@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * anno_image_jpeg_quality.strongarm.inc
+ * plato_image_jpeg_quality.strongarm.inc
  */
 
 /**
