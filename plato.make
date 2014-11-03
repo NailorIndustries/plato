@@ -23,6 +23,7 @@ projects[cs_adaptive_image]                                     = 1.0
 projects[ctools]                                                = 1.4
 projects[colorbox]                                              = 2.8
 projects[colorbox_node]																					= 3.3
+projects[context]                                               = 3.3
 projects[date]                                                  = 2.8
 projects[devel]                                                 = 1.5
 projects[ds]																										= 2.7
