@@ -1,7 +1,7 @@
-name = Anno Permissions
+name = Plato Permissions
 description = Sets permissions
 core = 7.x
-package = Anno
+package = Plato
 version = 7.x-1.0
 project = anno_permissions
 dependencies[] = features
