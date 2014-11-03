@@ -1,7 +1,7 @@
 name = Anno Image Jpeg Quality
 description = Sets Jpeg quality to maximum.
 core = 7.x
-package = Annoo
+package = Anno
 version = 7.x-1.0
 project = anno_image_jpeg_quality
 dependencies[] = ctools
