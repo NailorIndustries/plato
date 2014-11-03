@@ -4,4 +4,4 @@
  * Code for the Plato Image Jpeg Quality feature.
  */
 
-include_once 'anno_image_jpeg_quality.features.inc';
+include_once 'plato_image_jpeg_quality.features.inc';
