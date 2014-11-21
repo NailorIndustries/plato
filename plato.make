@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.32"
+projects[drupal][version] = "7.34"
 
 ; Modules:
 projects[addressfield]                                          = 1.0-beta5
@@ -20,7 +20,7 @@ projects[ckeditor]                                              = 1.16
 projects[clientside_validation]																	= 1.41
 projects[conditional_fields]                                    = 3.0-alpha1
 projects[cs_adaptive_image]                                     = 1.0
-projects[ctools]                                                = 1.4
+projects[ctools]                                                = 1.5
 projects[colorbox]                                              = 2.8
 projects[colorbox_node]																					= 3.3
 projects[context]                                               = 3.3
@@ -42,7 +42,7 @@ projects[feeds]                                                 = 2.0-alpha8
 projects[feeds][patch][] = "http://drupal.org/files/feeds_remove_entities_not_in_feed-1470530-94.patch"
 projects[feeds_xpathparser]                                     = 1.0-beta4
 projects[fences]                                                = 1.0
-projects[field_collection]																			= 1.0-beta7
+projects[field_collection]																			= 1.0-beta8
 projects[field_group]                                           = 1.4
 projects[field_validation]                                      = 2.4
 projects[filefield_paths]                                       = 1.0-beta4
