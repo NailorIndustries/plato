@@ -23,7 +23,7 @@ dependencies[] = file
 
 ; Contrib
 ; ------------
-dependencies[] = admin_menu
+dependencies[] = toolbar
 dependencies[] = ctools
 dependencies[] = entity
 dependencies[] = entity_token
