@@ -134,7 +134,7 @@ projects[webform_multifile]                                     = 1.2
 projects[webform_rules]	                                        = 1.6
 projects[webform_validation]                                    = 1.8
 projects[weight]                                                = 2.3
-projects[xmlsitemap]                                            = 2.1
+projects[xmlsitemap]                                            = 2.2
 
 ; Libraries:
 # CKEditor
