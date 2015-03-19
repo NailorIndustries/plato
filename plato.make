@@ -4,7 +4,7 @@ api = 2
 projects[drupal][version] = "7.35"
 
 ; Themes :
-projects[adminimal_theme]                                       = 1.20
+projects[adminimal_theme]                                       = 1.21
 
 ; Modules:
 projects[addressfield]                                          = 1.0
@@ -22,7 +22,7 @@ projects[ckeditor]                                              = 1.16
 projects[clientside_validation]                                 = 1.41
 projects[conditional_fields]                                    = 3.0-alpha1
 projects[cs_adaptive_image]                                     = 1.0
-projects[ctools]                                                = 1.6
+projects[ctools]                                                = 1.7
 projects[colorbox]                                              = 2.8
 projects[colorbox_node]                                         = 3.3
 projects[context]                                               = 3.6
@@ -39,7 +39,7 @@ projects[eva]                                                   = 1.2
 projects[extlink]                                               = 1.18
 projects[fb]                                                    = 3.4
 projects[fboauth]                                               = 1.6
-projects[features]                                              = 2.3
+projects[features]                                              = 2.4
 
 ; projects[feeds]                                               = 2.0-alpha8
 ; projects[feeds][patch][] = "http://drupal.org/files/feeds_remove_entities_not_in_feed-1470530-94.patch"
@@ -105,7 +105,7 @@ projects[qtip]                                                  = 2.0-rc2
 projects[redirect]                                              = 1.0-rc1
 projects[responsive_menus]                                      = 1.5
 projects[robotstxt]                                             = 1.3
-projects[rules]                                                 = 2.8
+projects[rules]                                                 = 2.9
 projects[search_api]                                            = 1.14
 projects[search_krumo]                                          = 1.5
 projects[select_with_style]                                     = 1.14
@@ -128,7 +128,7 @@ projects[views_flipped_table]                                   = 1.0
 projects[views_infinite_scroll]                                 = 1.1
 projects[views_php]                                             = 1.0-alpha1
 projects[views_slideshow]                                       = 3.1
-projects[webform]                                               = 4.4
+projects[webform]                                               = 4.5
 projects[webform_phone]                                         = 1.21
 projects[webform_multifile]                                     = 1.2
 projects[webform_rules]	                                        = 1.6
