@@ -1,17 +1,17 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.35"
+projects[drupal][version] = "7.38"
 
 ; Themes :
 projects[adminimal_theme]                                       = 1.21
 
 ; Modules:
-projects[addressfield]                                          = 1.0
+projects[addressfield]                                          = 1.1
 projects[admin_menu]                                            = 3.0-rc4
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 3.0
-projects[better_exposed_filters]                                = 3.0
+projects[better_exposed_filters]                                = 3.2
 projects[bg_image]                                              = 1.4
 projects[bg_image_formatter]                                    = 1.3
 projects[block_class]                                           = 2.1
@@ -39,7 +39,7 @@ projects[eva]                                                   = 1.2
 projects[extlink]                                               = 1.18
 projects[fb]                                                    = 3.4
 projects[fboauth]                                               = 1.6
-projects[features]                                              = 2.4
+projects[features]                                              = 2.5
 
 ; projects[feeds]                                               = 2.0-alpha8
 ; projects[feeds][patch][] = "http://drupal.org/files/feeds_remove_entities_not_in_feed-1470530-94.patch"
@@ -69,7 +69,7 @@ projects[imagecache_actions]                                    = 1.5
 projects[image_url_formatter]                                   = 1.4
 projects[imce]                                                  = 1.9
 projects[inline_messages]                                       = 1.0
-projects[jquery_update]                                         = 2.5
+projects[jquery_update]                                         = 2.6
 projects[job_scheduler]                                         = 2.0-alpha3
 projects[label_help]	                                           = 1.1
 projects[leaflet]                                               = 1.1
@@ -81,10 +81,10 @@ projects[magic]                                                 = 2.2
 projects[mailsystem]                                            = 2.34
 projects[media]                                                 = 1.4
 projects[menu_attributes]                                       = 1.0-rc3
-projects[menu_block]                                            = 2.5
+projects[menu_block]                                            = 2.6
 projects[menu_trail_by_path]                                    = 2.0
 projects[menu_item_visibility]                                  = 1.0-beta1
-projects[metatag]                                               = 1.4
+projects[metatag]                                               = 1.5
 projects[mimemail]                                              = 1.0-beta3
 projects[modernizr]                                             = 3.3
 projects[module_filter]                                         = 2.0
@@ -128,7 +128,7 @@ projects[views_flipped_table]                                   = 1.0
 projects[views_infinite_scroll]                                 = 1.1
 projects[views_php]                                             = 1.0-alpha1
 projects[views_slideshow]                                       = 3.1
-projects[webform]                                               = 4.5
+projects[webform]                                               = 4.9
 projects[webform_phone]                                         = 1.21
 projects[webform_multifile]                                     = 1.2
 projects[webform_rules]	                                        = 1.6
