@@ -8,7 +8,7 @@ projects[adminimal_theme]                                       = 1.22
 
 ; Modules:
 projects[addressfield]                                          = 1.1
-projects[admin_menu]                                            = 3.0-rc4
+projects[admin_menu]                                            = 3.0-rc5
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 3.1
 projects[better_exposed_filters]                                = 3.2
