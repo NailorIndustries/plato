@@ -7,13 +7,13 @@ projects[drupal][version] = "7.39"
 projects[adminimal_theme]                                       = 1.22
 
 ; Modules:
-projects[addressfield]                                          = 1.1
+projects[addressfield]                                          = 1.2
 projects[admin_menu]                                            = 3.0-rc5
 projects[auto_nodetitle]                                        = 1.0
 projects[backup_migrate]                                        = 3.1
 projects[better_exposed_filters]                                = 3.2
 projects[bg_image]                                              = 1.4
-projects[bg_image_formatter]                                    = 1.3
+projects[bg_image_formatter]                                    = 1.4
 projects[block_class]                                           = 2.1
 projects[boolean_icon]                                          = 1.1
 projects[calendar]                                              = 3.5
@@ -39,7 +39,7 @@ projects[eva]                                                   = 1.2
 projects[extlink]                                               = 1.18
 projects[fb]                                                    = 3.4
 projects[fboauth]                                               = 2.0-rc1
-projects[features]                                              = 2.6
+projects[features]                                              = 2.7
 
 projects[feeds]                                                 = 2.0-beta1
 ; projects[feeds][patch][] = "http://drupal.org/files/feeds_remove_entities_not_in_feed-1470530-94.patch"
