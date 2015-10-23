@@ -4,7 +4,7 @@ api = 2
 projects[drupal][version] = "7.41"
 
 ; Themes :
-projects[adminimal_theme]                                       = 1.22
+projects[adminimal_theme]                                       = 1.23
 
 ; Modules:
 projects[addressfield]                                          = 1.2
@@ -51,7 +51,7 @@ projects[feeds]                                                 = 2.0-beta1
 
 projects[feeds_xpathparser]                                     = 1.1
 projects[fences]                                                = 1.2
-projects[field_collection]                                      = 1.0-beta8
+projects[field_collection]                                      = 1.0-beta10
 projects[field_group]                                           = 1.4
 projects[field_validation]                                      = 2.6
 projects[filefield_paths]                                       = 1.0-rc1
@@ -128,7 +128,7 @@ projects[views_flipped_table]                                   = 1.0
 projects[views_infinite_scroll]                                 = 1.1
 projects[views_php]                                             = 1.0-alpha1
 projects[views_slideshow]                                       = 3.1
-projects[webform]                                               = 4.11
+projects[webform]                                               = 4.12
 projects[webform_phone]                                         = 1.23
 projects[webform_multifile]                                     = 1.3
 projects[webform_rules]	                                        = 1.6
