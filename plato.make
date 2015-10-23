@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.40"
+projects[drupal][version] = "7.41"
 
 ; Themes :
 projects[adminimal_theme]                                       = 1.22
@@ -69,7 +69,7 @@ projects[imagecache_actions]                                    = 1.5
 projects[image_url_formatter]                                   = 1.4
 projects[imce]                                                  = 1.9
 projects[inline_messages]                                       = 1.0
-projects[jquery_update]                                         = 2.6
+projects[jquery_update]                                         = 3.0-alpha3
 projects[job_scheduler]                                         = 2.0-alpha3
 projects[label_help]	                                           = 1.2
 projects[leaflet]                                               = 1.1
