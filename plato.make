@@ -53,6 +53,7 @@ projects[feeds_xpathparser]                                     = 1.1
 projects[fences]                                                = 1.2
 projects[field_collection]                                      = 1.0-beta10
 projects[field_group]                                           = 1.4
+projects[field_group][patch][] = "https://www.drupal.org/files/issues/field_group-accordion-heightStyle-content-2173937-8.patch"
 projects[field_validation]                                      = 2.6
 projects[filefield_paths]                                       = 1.0-rc1
 projects[filefield_sources]                                     = 1.9
