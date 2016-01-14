@@ -18,7 +18,7 @@ projects[block_class]                                           = 2.1
 projects[boolean_icon]                                          = 1.1
 projects[calendar]                                              = 3.5
 projects[captcha]                                               = 1.3
-projects[ckeditor]                                              = 1.16
+projects[ckeditor]                                              = 1.17
 projects[clientside_validation]                                 = 1.41
 projects[conditional_fields]                                    = 3.0-alpha2
 projects[cs_adaptive_image]                                     = 1.0
@@ -52,10 +52,9 @@ projects[feeds]                                                 = 2.0-beta1
 projects[feeds_xpathparser]                                     = 1.1
 projects[fences]                                                = 1.2
 projects[field_collection]                                      = 1.0-beta10
-projects[field_group]                                           = 1.4
-projects[field_group][patch][] = "https://www.drupal.org/files/issues/field_group-accordion-heightStyle-content-2173937-8.patch"
+projects[field_group]                                           = 1.5
 projects[field_validation]                                      = 2.6
-projects[filefield_paths]                                       = 1.0-rc1
+projects[filefield_paths]                                       = 1.0
 projects[filefield_sources]                                     = 1.9
 projects[filefield_sources_plupload]                            = 1.1
 projects[flag]                                                  = 3.6
@@ -87,7 +86,7 @@ projects[menu_trail_by_path]                                    = 2.0
 projects[menu_item_visibility]                                  = 1.0-beta1
 projects[metatag]                                               = 1.7
 projects[mimemail]                                              = 1.0-beta4
-projects[modernizr]                                             = 3.4
+; projects[modernizr]                                             = 3.4
 projects[module_filter]                                         = 2.0
 projects[multiupload_filefield_widget]                          = 1.13
 projects[multiupload_imagefield_widget]                         = 1.3
@@ -121,7 +120,7 @@ projects[token]                                                 = 1.6
 projects[token_filter]                                          = 1.1
 projects[transliteration]                                       = 3.2
 projects[variable]                                              = 2.5
-projects[views]                                                 = 3.12
+projects[views]                                                 = 3.13
 projects[views_accordion]                                       = 1.1
 projects[views_bulk_operations]                                 = 3.3
 projects[vbo_hide]                                              = 1.2
@@ -142,7 +141,7 @@ projects[xmlsitemap]                                            = 2.2
 libraries[ckeditor][type] = "library"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.1/ckeditor_4.1.1_full.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.6/ckeditor_4.5.6_full.zip"
 
 # Colorbox
 libraries[colorbox][type] = "library"
@@ -163,13 +162,15 @@ libraries[leaflet_widget][download][type] = "git"
 libraries[leaflet_widget][download][url] = "https://github.com/tnightingale/Leaflet.widget.git"
 
 # Modernizr
-libraries[leaflet_widget][type] = "library"
-libraries[leaflet_widget][directory_name] = "modernizr"
-libraries[leaflet_widget][download][type] = "get"
-libraries[leaflet_widget][download][url] = "http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+; libraries[modernizr][type] = "library"
+; libraries[modernizr][directory_name] = "modernizr"
+; libraries[modernizr][download][type] = "get"
+; libraries[modernizr][download][url] = "http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
 
 # OperLayers
 libraries[openlayers][type] = "library"
-libraries[leaflet_widget][directory_name] = "openlayers"
-libraries[leaflet_widget][download][type] = "get"
-libraries[leaflet_widget][download][url] = "https://github.com/openlayers/ol3/archive/v3.1.0-pre.2.zip"
+libraries[openlayers][directory_name] = "openlayers"
+libraries[openlayers][download][type] = "get"
+; libraries[openlayers][download][url] = "https://github.com/openlayers/ol3/archive/v3.1.0-pre.2.zip"
+libraries[openlayers][download][url] = "https://github.com/openlayers/ol3/releases/download/v3.12.1/v3.12.1.zip"
+
