@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.41"
+projects[drupal][version] = "7.43"
 
 ; Themes :
 projects[adminimal_theme]                                       = 1.23
